@@ -54,7 +54,7 @@ Windows only. The game is Ready or Not, and the mod runs on UE4SS.
 
 **Unlocks**
 - Earned cosmetics, all missions, unlock all maps, unlock all cosmetic items
-- DLC missions available
+- DLC missions available [If you try to play the missions you crash tho]
 
 **Teleports**
 - Blink forward, glide to crosshair, teleport to next suspect, civilian, evidence or objective
